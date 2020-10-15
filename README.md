@@ -1,1 +1,1 @@
-# jira-server-plugin-jar
+this repo should not be used anymore. 
